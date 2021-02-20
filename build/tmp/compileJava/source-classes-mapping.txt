@@ -1,2 +1,14 @@
+Models/Category.java
+ Models.Category
+Config.java
+ Config
+Models/Item.java
+ Models.Item
+Controllers/CatalogManager.java
+ Controllers.CatalogManager
+Models/InvoiceItem.java
+ Models.InvoiceItem
+Controllers/Invoice.java
+ Controllers.Invoice
 SalesTaxCalculator.java
  SalesTaxCalculator

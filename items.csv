@@ -1,0 +1,9 @@
+Name, Imported(yes/no), Cost, Category
+Sapiens, no, 500.75, BOOK
+Imported Novel, yes, 700, BOOK
+Imported Apples, yes, 100, FOOD
+Orange, no, 50, FOOD
+Pain reliever, yes, 200, MEDICINE
+Calculator, yes, 600, ELECTRONICS
+Shirt, no, 700, CLOTHES
+Perfume, yes, 200, BEAUTY_PRODUCT
